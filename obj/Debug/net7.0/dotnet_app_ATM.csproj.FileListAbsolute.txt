@@ -1,0 +1,15 @@
+/Users/thomasthephasdin/dotnet_app_ATM/bin/Debug/net7.0/dotnet_app_ATM
+/Users/thomasthephasdin/dotnet_app_ATM/bin/Debug/net7.0/dotnet_app_ATM.deps.json
+/Users/thomasthephasdin/dotnet_app_ATM/bin/Debug/net7.0/dotnet_app_ATM.runtimeconfig.json
+/Users/thomasthephasdin/dotnet_app_ATM/bin/Debug/net7.0/dotnet_app_ATM.dll
+/Users/thomasthephasdin/dotnet_app_ATM/bin/Debug/net7.0/dotnet_app_ATM.pdb
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.csproj.AssemblyReference.cache
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.AssemblyInfoInputs.cache
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.AssemblyInfo.cs
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.csproj.CoreCompileInputs.cache
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.dll
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/refint/dotnet_app_ATM.dll
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.pdb
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/dotnet_app_ATM.genruntimeconfig.cache
+/Users/thomasthephasdin/dotnet_app_ATM/obj/Debug/net7.0/ref/dotnet_app_ATM.dll
